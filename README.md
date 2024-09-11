@@ -1,2 +1,2 @@
 # testing-repo
-testing repository
+testing repository javahub
